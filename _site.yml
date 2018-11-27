@@ -1,4 +1,4 @@
-name: "morgan's-website"
+name: "my-website"
 output_dir: docs
 # The website theme was chosen from
 # https://rmarkdown.rstudio.com/html_document_format#appearance_and_style
@@ -17,7 +17,7 @@ navbar:
   title: "My Website"
   left:
     - text: "Home"
-      href: index.html
+      href: index.html1
     - text: "About"
       href: about.html
   right:
